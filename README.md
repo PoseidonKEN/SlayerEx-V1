@@ -1,1 +1,1 @@
-# SlayerEx-V1
+# PoseidonEx
